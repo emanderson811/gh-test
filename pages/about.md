@@ -14,6 +14,9 @@ credits: true
 
 ## About the Collection
 
+This is a demo site built for a workshop. It contains digital collections materials from Iowa State University Library's Iowa agriculture collections.
+{% include feature/image objectid="isuagdemo_013" width="75" %}
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
